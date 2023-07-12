@@ -12,4 +12,4 @@
 
 💼 Open to freelance projects and collaboration opportunities | 🤝 Let's connect and create secure digital experiences together!
 
-📫 Reach me at [sadiga80@gmail.com] | 🌐 Portfolio: [anakramy.app] | 💼 LinkedIn: [[your-linkedin-url](https://www.linkedin.com/in/santhosh-adiga-u-b699b37a/)]
+📫 Reach me at [sadiga80@gmail.com] | 🌐 Portfolio: [anakramy.app] | 💼 LinkedIn: [[Santhosh Adiga U](https://www.linkedin.com/in/santhosh-adiga-u-b699b37a/)]
