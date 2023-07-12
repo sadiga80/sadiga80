@@ -2,7 +2,7 @@
 
 🔭 Exploring the depths of code and uncovering vulnerabilities | 🌌 Penetrating systems to enhance security | 🛡️ Building robust and scalable solutions to protect digital assets
 
-🌟 5+ years of experience in ethical hacking and software development | 💡 Passionate about cybersecurity, programming, and problem-solving | 🎓 B.Sc. in Computer Science
+🌟 10+ years of experience in ethical hacking and mobile app development | 💡 Passionate about cybersecurity, programming, and problem-solving | 🎓 B.E. in Computer Science
 
 💻 Languages: Python, Dart, C, Java | 🕸️ Frameworks: Django, Flutter, Node.js | 🛠️ Tools: Burp Suite, Wireshark, Metasploit | ☁️ Cloud Platforms: AWS, GCP
 
