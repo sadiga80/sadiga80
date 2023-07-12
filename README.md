@@ -1,16 +1,15 @@
-### Hi there 👋
+👨‍💻 Hacker | 🖥️ Developer | 🌐 Security Enthusiast
 
-<!--
-**sadiga80/sadiga80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Exploring the depths of code and uncovering vulnerabilities | 🌌 Penetrating systems to enhance security | 🛡️ Building robust and scalable solutions to protect digital assets
 
-Here are some ideas to get you started:
+🌟 5+ years of experience in ethical hacking and software development | 💡 Passionate about cybersecurity, programming, and problem-solving | 🎓 B.Sc. in Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Languages: Python, Dart, C, Java | 🕸️ Frameworks: Django, Flutter, Node.js | 🛠️ Tools: Burp Suite, Wireshark, Metasploit | ☁️ Cloud Platforms: AWS, GCP
+
+🔒 Expertise: Web application security, network penetration testing, vulnerability assessment, secure coding practices | 🌐 Knowledgeable in OWASP Top 10, SQL injection, XSS, CSRF, and other common attack vectors
+
+📚 Constantly learning and keeping up with the latest trends in cybersecurity | 🌱 Currently diving into blockchain security and IoT vulnerabilities
+
+💼 Open to freelance projects and collaboration opportunities | 🤝 Let's connect and create secure digital experiences together!
+
+📫 Reach me at [sadiga80@gmail.com] | 🌐 Portfolio: [anakramy.app] | 💼 LinkedIn: [[your-linkedin-url](https://www.linkedin.com/in/santhosh-adiga-u-b699b37a/)]
